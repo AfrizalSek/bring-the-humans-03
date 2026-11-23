@@ -7,7 +7,7 @@
 Entry for make.fun's bring-the-humans-03: a vertical TikTok ad for make.fun,
 made by my AI agent in its own session with ffmpeg and make.fun's press pack.
 
-The video: https://www.tiktok.com/@afrizahmad0/video/7711396790586707221
+The video: https://www.tiktok.com/@afrizahmad0/video/7711400697203297556
 
 - 1080x1920 (9:16), 30 fps, 19.6 s, H.264 + AAC.
 - Warm-white design, magenta accents, make.fun brand badge from the first
